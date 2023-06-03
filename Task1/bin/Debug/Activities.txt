@@ -1,0 +1,15 @@
+﻿12,Quizzes in Moodle
+17,Small groups assigned during lab sessions
+25,Peer review activities (workshop activities in Moodle)
+6,Blitz assessments
+2,Theory assessments
+24,Practical assessments
+14,Feedback from formal assessments in the form of written/typed comments
+10,Feedback from formal assessments in the form of rubrics
+18,My friends
+20,Internet
+23,Other sources (like the library)
+11,Personal summaries and notes
+8,Warmup activity at the start of every lecture
+19,Weekly Lunchtime Workshop
+4,Time to work independently between lectures and/or pracs
